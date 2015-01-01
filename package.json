@@ -15,6 +15,7 @@
   "licenses": "MIT",
   "spm": {
     "main": "index.js",
+    "output": ["src/style.css"],
     "dependencies": {
         "eventor":"0.0.3"
     },
